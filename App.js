@@ -1,5 +1,5 @@
 import React from 'react';
-import SpaceshipSimulator from './spaceship_simulator';
+import SpaceshipSimulator from './spaceship_simulator.jsx';
 
 function App() {
   return (
